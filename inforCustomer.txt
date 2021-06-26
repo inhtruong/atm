@@ -1,0 +1,27 @@
+
+Sat Jun 26 22:57:35 ICT 2021
+Chu tai khoan: Nguyen Van A
+So du trong tai khoan: 10000001. Rut tien: 200000VND
+
+
+Sat Jun 26 23:25:52 ICT 2021
+Chu tai khoan: Nguyen Van A
+So du trong tai khoan: 1200000
+
+Sat Jun 26 23:27:01 ICT 2021
+Chu tai khoan: Nguyen Van A
+So du trong tai khoan: 1200000
+
+Sat Jun 26 23:33:31 ICT 2021
+Chu tai khoan: Nguyen Van A
+So du trong tai khoan: 1200000
+
+Sat Jun 26 23:40:03 ICT 2021
+Chu tai khoan: Nguyen Van A
+So du trong tai khoan: 1200000
+
+Sat Jun 26 23:45:55 ICT 2021
+Chu tai khoan: Nguyen Van A
+So du trong tai khoan: 111000001. Rut tien: 100000VND
+2. Nap tien: 10000000VND
+
